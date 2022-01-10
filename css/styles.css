@@ -1,0 +1,153 @@
+/**********TAG SELECTORS**********/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', serif;
+  font-size: 120%;
+  background-color: #FFF8F3;
+  }
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3px;
+  width: 10%;
+  margin: 50px auto 50px auto;
+  }
+
+h1 {
+    font-size: 4.800rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Kalam', cursive;
+    color: #406882;
+    }
+
+h2 {
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2rem;
+  color: #406882;
+  font-weight: normal;
+  padding-bottom: 10px;
+  }
+
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+  }
+
+p {
+  line-height: 2;
+  }
+
+a{
+  color: #406882;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+
+a:hover{
+  color: #F5F5F5
+  }
+
+/**********CLASS SELECTORS**********/
+.click-down{
+   margin-top: 60px;
+  width: 5%;
+  height: auto;
+  }
+
+.top-container {
+  background-color: #D6E5FA;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom:65px
+  }
+
+.student {
+  text-decoration: underline;
+  }
+
+.Profilepic {
+  width: 20%;
+  height: auto;
+  }
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 70px;
+  }
+
+.bottom-cloud {
+  position: absolute;
+  left: 370px;
+  bottom: 400px;
+  }
+
+.intro {
+  width: 30%;
+  margin: auto;
+  }
+
+.middle-containter {
+  margin: 100px 0;
+  }
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  }
+
+.my-skills{
+  width: 30%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+  }
+
+
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+  }
+
+.copywrite{
+  color: #F5F5F5;
+  font:0.5rem;
+  padding: 20px 0;
+  }
+
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  font-family: 'Montserrat',sans-serif;
+  color: #fcfcfc;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  }
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+  }
+
+.bottom-container{
+  background-color: #D6E5FA;
+  padding: 50px 0 20px;
+  }
+/**********ID SELECTORS**********/
